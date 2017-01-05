@@ -19,7 +19,7 @@ Nearly 2.9GB HDD/SDD space can be saved.
   - version `15.17 (151206)`
   - version `15.18 (160109)`
   - version `15.25 (160817) x64`
-  - version `15.29.1(161215)x64`
+  - version `15.29.1(161215) x64`
 - Use at your own risk.
 若使用本脚本，责任自负
 - Read the code before you run.
